@@ -1,7 +1,7 @@
 # React-Lab-Exercise-15-Fetch-Student-Details-Using-Axios-in-React
 
-## Name : Moulishwar G
-## Register Number : 2305001020
+## Name : Pranav K
+## Register Number : 2305001026
 
 # AIM
 To develop a React application that uses Axios to send a GET request to a REST API, receive student information in JSON format, and display the details when the user clicks the View Details button.
